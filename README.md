@@ -1,2 +1,2 @@
-# Call-Center-Performance-Report
-A Power BI dashboard and template for analyzing Foundever Call Center Performance metrics, including AHT, Answer Rate, Service Level, and Customer Satisfaction.
+# 📊 Foundever Power BI Dashboard
+This repository contains a Power BI dashboard project designed to analyze and visualize performance metrics across contact centers. The dashboard includes KPI tracking for Answer Rate, Average Handle Time (AHT), Service Level, Customer Satisfaction, and Net Promoter Score (NPS).
