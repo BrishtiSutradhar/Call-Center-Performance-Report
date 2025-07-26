@@ -8,8 +8,8 @@ This repository contains a Power BI dashboard project  provides a comprehensive 
 
 ## 📁 Files
 
-- **`Power_BI_Foundever_Final_Report.pbix`**
--  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Power_BI_Foundever_Final%20Report.pbix'> Call_Center_Performance – Full Power BI report (original, with data)</a>
+- **`Call_Center_Performance – Full Power BI report (original, with data)`**
+-  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Power_BI_Foundever_Final%20Report.pbix'>Power_BI_Foundever_Final_Report.pbix</a>
 - **`Power_BI_Foundever_Final_Report.pbit`** – Power BI Template (structure only, no data) *(you can export this from the PBIX file)*
 - **`data/Clean_Raw_Data.xlsx`**
 -  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> Cleaned dataset used for demonstration</a>
