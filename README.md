@@ -1,7 +1,8 @@
 
 # 📊 Foundever Power BI Dashboard
 
-This repository contains a Power BI dashboard project designed to analyze and visualize performance metrics across contact centers. The dashboard includes KPI tracking for Answer Rate, Average Handle Time (AHT), Service Level, Customer Satisfaction, and Net Promoter Score (NPS).
+Description:
+This repository contains a Power BI dashboard project  provides a comprehensive performance and operations overview for Foundever Call Center environments. It is designed to help team leads, analysts, and operations managers monitor KPIs such as agent performance, call handling metrics, and customer satisfaction across multiple teams and time periods.
 
 ---
 
