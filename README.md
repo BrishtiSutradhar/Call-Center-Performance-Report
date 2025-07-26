@@ -1,4 +1,4 @@
-
+ 
 # 📊 Foundever Power BI Dashboard
 
 Description:
@@ -15,7 +15,7 @@ This repository contains a Power BI dashboard project  provides a comprehensive 
 -  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> data/Clean_Raw_Data.xlsx </a>
 
 - **`exports/Call_Center_Performance –Summary of findings and KPI trends_ Full_Looker_Studio_Report.pdf`**
-- <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Looker_Studio_Call_Center_Final_Report.pdf'> – Looker_Studio_Report.pdf</a>
+- <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Looker_Studio_Call_Center_Final_Report.pdf'> Looker_Studio_Report.pdf</a>
 - **`exports/Power_BI_Foundever_Final_Report_PDF.pdf`** – Full visual export of the dashboard
 
 ---
