@@ -55,5 +55,5 @@ MIT License. Feel free to reuse and modify for your own data reporting needs.
 ## 🙋‍♂️ Questions?
 
 Contact:
-Brishti Sutradhar
+Brishti Sutradhar ;
 Email: brishtisutradharbb@gmail.com
