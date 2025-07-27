@@ -43,9 +43,6 @@ This repository contains a Power BI dashboard project  provides a comprehensive 
 ## 📝 Screenshots / Samples
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
-
-
 Preview visuals available in [`exports/Power_BI_Foundever_Final_Report_PDF.pdf`]![WhatsApp Image 2025-07-27 at 07 27 48_8b0ee049](https://github.com/user-attachments/assets/c2c8c0d5-c9dc-422a-b318-5d12f47a04a6)
 
 
