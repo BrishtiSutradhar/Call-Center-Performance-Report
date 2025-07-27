@@ -46,7 +46,7 @@ Show what the dashboard looks like. - ![Alt text](https://github.com/username/re
 Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 
 
-Preview visuals available in [`exports/Power_BI_Foundever_Final_Report_PDF.pdf`]![WhatsApp Image 2025-07-27 at 07 19 14_7fdebd47](https://github.com/user-attachments/assets/bc778a80-884d-41b4-a9ad-bfa1a54207c9)
+Preview visuals available in [`exports/Power_BI_Foundever_Final_Report_PDF.pdf`]![WhatsApp Image 2025-07-27 at 07 27 48_8b0ee049](https://github.com/user-attachments/assets/c2c8c0d5-c9dc-422a-b318-5d12f47a04a6)
 
 
 ---
