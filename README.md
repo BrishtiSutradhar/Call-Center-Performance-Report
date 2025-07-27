@@ -8,15 +8,15 @@ This repository contains a Power BI dashboard project  provides a comprehensive 
 
 ## 📁 Files
 
-- **`Call_Center_Performance – Full Power BI report (original, with data)`**
+- **`Call Center Performance – Full Power BI report (original, with data)`**
 -  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Power_BI_Foundever_Final%20Report.pbix'>Power_BI_Foundever_Final_Report.pbix</a>
-- **`Power_BI_Foundever_Final_Report.pbit`** – Power BI Template (structure only, no data) *(you can export this from the PBIX file)*
+- **`Power BI Foundever Final Report.pbit`** – Power BI Template (structure only, no data) *(you can export this from the PBIX file)*
 - **`Cleaned dataset used for demonstration`**
 -  <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Clean_Raw_Data.xlsx'> data/Clean_Raw_Data.xlsx </a>
 
-- **`exports/Call_Center_Performance –Summary of findings and KPI trends_ Full_Looker_Studio_Report.pdf`**
+- **`exports/Call Center Performance/ Summary of findings and KPI trends - Full Looker Studio Report.pdf`**
 - <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Looker_Studio_Call_Center_Final_Report.pdf'> Looker_Studio_Report.pdf</a>
-- **` Full visual export of the dashboard_Power_BI_Report_PDF`** 
+- **` Full visual export of the dashboard Power BI Report PDF`** 
 - <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/commit/b2d201457f503be9455033571cf7ab24ba553b8d'>exports/Power_BI_Foundever_Final.pdf</a>
 
 ---
