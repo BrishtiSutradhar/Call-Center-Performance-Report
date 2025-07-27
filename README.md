@@ -17,7 +17,7 @@ This repository contains a Power BI dashboard project  provides a comprehensive 
 - **`exports/Call Center Performance/ Summary of findings and KPI trends - Full Looker Studio Report.pdf`**
 - <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/blob/main/Looker_Studio_Call_Center_Final_Report.pdf'> Looker_Studio_Report.pdf</a>
 - **` Full visual export of the dashboard Power BI Report PDF`** 
-- <a href='https://github.com/BrishtiSutradhar/Foundever_Call_Center_Analytic/commit/b2d201457f503be9455033571cf7ab24ba553b8d'>exports/Power_BI_Foundever_Final.pdf</a>
+- <a href='https://github.com/BrishtiSutradhar/Foundever-Call-Center-Analysis/blob/main/Power_BI_Foundever_Final%20Report_PDF.pdf'>exports/Power_BI_Foundever_Final.pdf</a>
 
 ---
 
